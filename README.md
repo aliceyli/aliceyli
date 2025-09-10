@@ -3,7 +3,7 @@
 I've been a software engineer for 3 years and, prior to that, a data analyst for 5 years. 
 
 - :books: I just wrapped up a batch at [Recurse Center](https://www.recurse.com) this summer where I built
-  - [Toy.ts](https://github.com/aliceyli/toy-js-framework) - a TS frontend framework to demonstrate the virtual DOM rendering cycle
+  - [Toy.ts](https://github.com/aliceyli/toy-js-framework) - an educational TS frontend framework to demonstrate the virtual DOM rendering cycle
   - [Arrhythmia](https://github.com/cysabi/arrhythmia) - a realtime multi-player rhythm game. play it with a friend [here](https://cysabi.github.io/arrhythmia/).
   - [Dairy-Free Donny](https://github.com/aliceyli/DairyFreeDonny) - my JS canvas interpretation of a [fictional](https://theartofpants.com/products/dairy-free-donny) arcade game about avoiding foods with allergy triggers
 - :briefcase: I've previously worked at [TeachersPayTeachers](http://teacherspayteachers.com) and [MealPal](https://mealpal.com)
